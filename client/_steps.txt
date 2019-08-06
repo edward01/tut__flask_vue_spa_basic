@@ -1,0 +1,6 @@
+1. Add axios
+    $ npm install axios@0.18.0 --save
+2. Add bootstrap
+    $ npm install bootstrap@4.3.1 --save
+3. Add bootstrap vue
+    $ npm install bootstrap-vue@2.0.0-rc.19 --save
